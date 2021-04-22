@@ -6,7 +6,6 @@ namespace TCPP_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from browser!");
             Console.WriteLine("Hello World from IDE!");
             // Конфлікт вирішено 22.04
             Console.WriteLine("Змінни в ALFA");
