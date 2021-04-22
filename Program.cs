@@ -6,7 +6,7 @@ namespace TCPP_Project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World from IDE!");
             Console.WriteLine("Змінни в ALFA");
             Console.WriteLine("Змінни 2 в ALFA");
             Console.WriteLine("Змінено з Браузера");
