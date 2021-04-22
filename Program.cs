@@ -7,6 +7,7 @@ namespace TCPP_Project
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Змінни в ALFA");
         }
     }
 }
